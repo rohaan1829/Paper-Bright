@@ -28,8 +28,7 @@ Most mobile scanning apps lock the best features behind a **paywall**. So I buil
 
 ---
 
-## 📦 Installation
-
+<h1>📦 Installation</h1>
 1. Clone the repository:
 
 ```bash
@@ -43,7 +42,7 @@ cd paperbright
 2. numpy
 3. scipy
 ```
-##🔧 Techniques Used
+<h1>🔧 Techniques Used </h1>
 <h2> CLAHE (Contrast Limited Adaptive Histogram Equalization) </h2>
 <h2> Adaptive thresholding </h2>
 <h2> Deblurring via Wiener filter </h2>
